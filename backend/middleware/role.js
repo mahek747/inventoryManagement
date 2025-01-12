@@ -1,4 +1,3 @@
-// roles.js
 
 /**
  * Middleware to check if the user has the required role to access a resource.
